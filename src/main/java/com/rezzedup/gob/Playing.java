@@ -5,10 +5,10 @@ import net.dv8tion.jda.core.entities.impl.GameImpl;
 
 public enum Playing
 {
-    COLON_GOB_HELP(":gob help"),
-    GOBLIN_HELP(Emoji.JAPANESE_GOBLIN + " help"),
-    GOBLIN_ROBOT_HELLO(Emoji.JAPANESE_GOBLIN + " " + Emoji.ROBOT + " hello"),
-    GOBLIN_EQUALS_MATH(Emoji.JAPANESE_GOBLIN + " = 1 + 1");
+    COLON_GOB_HELP("helping you"),
+    GOBLIN_HELP(Emoji.JAPANESE_GOBLIN + "HI!!"),
+    GOBLIN_ROBOT_HELLO(Emoji.JAPANESE_GOBLIN + " " + Emoji.ROBOT + "with Nathan100"),
+    GOBLIN_EQUALS_MATH(Emoji.JAPANESE_GOBLIN + "1 + 1 = 11");
     
     private final String status;
     
